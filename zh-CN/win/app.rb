@@ -1,5 +1,5 @@
 gsub_file 'Gemfile', /^source .*$/, ""
-add_source "http://ruby.sdutlinux.org"
+add_source "http://gems.ruby-china.org"
 
 devkit = 0
 begin
